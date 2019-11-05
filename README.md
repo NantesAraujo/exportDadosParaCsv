@@ -38,4 +38,14 @@ Use o seguinte comando para subri o projeto
 adonis serve --dev
 ```
 
-or manually clone the repo and then run `npm install`.
+## Export Data
+
+Para Exportar os dados para o arquivo de extesão .csv foi utilizado a seguinte biblioteca
+```
+adonis-spreadsheet
+```
+
+para instala basta exutar o seguinte comando:
+```
+npm install adonis-spreadsheet --save
+``` 
